@@ -1,0 +1,12 @@
+{
+    "name": "hrant/boogle",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hrant Abelyan",
+            "email": "electronemail777@gmail.com"
+        }
+    ],
+    "require": {}
+}
